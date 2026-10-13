@@ -1,13 +1,10 @@
-# LLM Engineering - Master AI and LLMs
+# LLM Engineering – Master AI and LLMs
+## Setup Instructions for PC, Mac, and Linux
+If you're viewing this in Cursor, right-click the filename in the Explorer panel on the left and select "Open Preview" to see the formatted version.
 
-## Setup instructions for PC, Mac and Linux
+Welcome, aspiring LLM engineers.
 
-_If you're looking at this in Cursor, please right click on the filename in the Explorer on the left, and select "Open preview", to view the formatted version._
-
-Welcome, LLM engineers in the making!
-
-I should confess up-front: setting up a powerful environment to work at the forefront of AI is not as simple as I'd like. For most people these instructions will go great; but in some cases, for whatever reason, you'll hit a problem. Please don't hesitate to reach out - I am here to get you up and running quickly. There's nothing worse than feeling _stuck_.  email me and I will unstick you quickly!
-
+We'll be upfront: configuring a high-performance environment for cutting-edge AI work is not as straightforward as we'd like. For most users, these instructions will work seamlessly. However, in some cases, you may encounter issues for reasons outside your control. Should that happen, please don't hesitate to reach out — I'm here to get you up and running as quickly as possible. Nothing is more frustrating than feeling stuck. Email me, and I'll help resolve things promptly.
 Email: guy.taltou@gmail.com  
 
 ## Step 0 - Before we begin - addressing the "GOTCHAS" which trip up many people:
@@ -208,8 +205,8 @@ Now go to View >> Explorer. Open the week1 folder, and click on `lab-1.pynb`.
 - Pick the top option with a star that should say something like `.venv (Python 3.12.x) .venv/bin/python Recommended`
 - If this doesn't come up, please go to the troubleshooting lab in the Setup folder.
 
-# CONGRATULATIONS!! You made it! The rest of the course is easy 😂
+# Congratulations — your environment is ready. The rest of the course builds on what you've just accomplished and will feel much more straightforward.
 
 **One final note:**
 
-Early on in the course (on Day 2), I give a demo of a very cool, popular product called Claude Code. It's an AI coding tool, similar to Cursor that we use on the course. I'm only showing this as an example of Agentic AI in action; it's not a tool that's covered explicitly on this course, particularly as we're in Cursor. But if you want to use Claude Code yourself, the Quick Start guide from Anthropic is [here](https://docs.claude.com/en/docs/claude-code/quickstart).
+ If you want to use Claude Code yourself, an AI coding tool, similar to Cursor that we use on the course, the Quick Start guide from Anthropic is [here](https://docs.claude.com/en/docs/claude-code/quickstart).

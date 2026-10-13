@@ -67,4 +67,4 @@ The charges for the exercises in this course should always be quite low, but if 
 2. For Anthropic: Always use model `claude-3-haiku-20240307` in the code instead of the other Claude models
 3. During week 7, look out for my instructions for using the cheaper dataset
 
-Please do message me or email me at ed@edwarddonner.com if this doesn't work or if I can help with anything. I can't wait to hear how you get on.
+Please do message me or email me at guy.taltou@gmail.com if this doesn't work or if I can help with anything. I can't wait to hear how you get on.
